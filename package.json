@@ -1,0 +1,22 @@
+{
+  "name": "masaiquiz",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mr-raaz/masaiquiz.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mr-raaz/masaiquiz/issues"
+  },
+  "homepage": "https://github.com/Mr-raaz/masaiquiz#readme",
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
